@@ -1,0 +1,14 @@
+.heading {
+    color:rgb(54,69,79);
+    font-family:"Garamond", "Times New Roman", sans-serif;
+}
+
+.description {
+    color:black;
+    font-family:"Lucida Handwriting", "Garamond", sans-serif;
+    font-weight:bold;
+}
+
+* {
+    background-color:rgb(211,211,211);
+}
